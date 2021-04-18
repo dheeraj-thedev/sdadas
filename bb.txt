@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 60D7-B275
+
+ Directory of C:\Users\Administrator\practice
+
+18-04-2021  15:00    <DIR>          .
+18-04-2021  15:00    <DIR>          ..
+18-04-2021  14:58               343 aa.txt
+18-04-2021  15:00                 0 bb.txt
+               2 File(s)            343 bytes
+               2 Dir(s)  18,406,252,544 bytes free
